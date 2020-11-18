@@ -1,5 +1,5 @@
 
-# Chat built with Meteor.js, Vue.js & Quasar
+# Boilerplate template for Meteor.js with Vue.js & Quasar
 
 Clone this repo. Go to the project folder and run (in console):
 
